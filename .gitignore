@@ -1,5 +1,11 @@
+*.log
+*.dat
+
 # Dependency directories
 node_modules/
 
 # IntelliJ
 .idea/
+
+# Other files
+npm-debug.log
